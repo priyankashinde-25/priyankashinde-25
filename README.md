@@ -1,17 +1,39 @@
-### Hi there  👋 I am Priyanka Shinde
+###👋 Hi, I'm Priyanka Shinde
+
+I'm a Full Stack Software Engineer passionate about building scalable, user-focused applications and leveraging AI to solve real-world problems. With hands-on experience in modern web technologies, backend systems, and cloud platforms, I bring a product-focused mindset to everything I build.
+
+💻 What I Do
+
+⚙️ Build full-stack applications using React, Node.js, Java, and Spring Boot
+
+☁️ Design and deploy scalable backend services with AWS, Docker, and Kubernetes
+
+🧠 Develop data-driven solutions and ML models with Python, Scikit-learn, and TensorFlow
+
+🔍 Write clean, tested code using JUnit, Mockito, and Agile best practices
+
+📊 Explore insights through data visualization, BigQuery, and MongoDB
+
+🚀 Projects I'm Proud Of
+
+Child Adoption System – Java-based microservices app for streamlining the child adoption process
+
+Voice4Rights – Cloud-native web platform for real-time advocacy and secure donations
+
+ML Internship Projects – Supervised learning models with 90%+ accuracy on real datasets
+
+🛠 Tech Stack
+
+Languages & Frameworks:Java • Python • JavaScript • React • Spring Boot • Node.js • TypeScript
+
+Tools & Platforms:AWS • Docker • Kubernetes • MongoDB • PostgreSQL • Git • Jira
+
+AI/ML & Data:Scikit-learn • TensorFlow • Pandas • BigQuery • Seaborn • Matplotlib
+
+💋 Let's Connect
+
+I’m actively seeking full-time opportunities where I can contribute to impactful products and continue growing as a developer.
+
+📧 Email: priyankashinde@email.com🔗 LinkedIn • Portfolio
 
 
-<!--
-**priyankashinde-25/priyankashinde-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
