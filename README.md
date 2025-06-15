@@ -1,4 +1,4 @@
-###👋 Hi, I'm Priyanka Shinde
+👋 Hi, I'm Priyanka Shinde
 
 I'm a Full Stack Software Engineer passionate about building scalable, user-focused applications and leveraging AI to solve real-world problems. With hands-on experience in modern web technologies, backend systems, and cloud platforms, I bring a product-focused mindset to everything I build.
 
