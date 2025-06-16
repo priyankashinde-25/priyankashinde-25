@@ -14,14 +14,6 @@ I'm a Full Stack Software Engineer passionate about building scalable, user-focu
 
 📊 Explore insights through data visualization, BigQuery, and MongoDB
 
-🚀 Projects I'm Proud Of
-
-Child Adoption System – Java-based microservices app for streamlining the child adoption process
-
-Voice4Rights – Cloud-native web platform for real-time advocacy and secure donations
-
-ML Internship Projects – Supervised learning models with 90%+ accuracy on real datasets
-
 🛠 Tech Stack
 
 Languages & Frameworks:Java • Python • JavaScript • React • Spring Boot • Node.js • TypeScript
@@ -30,7 +22,6 @@ Tools & Platforms:AWS • Docker • Kubernetes • MongoDB • PostgreSQL • G
 
 AI/ML & Data:Scikit-learn • TensorFlow • Pandas • BigQuery • Seaborn • Matplotlib
 
-💋 Let's Connect
 
 I’m actively seeking full-time opportunities where I can contribute to impactful products and continue growing as a developer.
 
